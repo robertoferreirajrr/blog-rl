@@ -9,7 +9,7 @@ Foram implementados diversos desafios práticos para testar e explorar os recurs
 
 O trabalho executado pode ser visualizado na Vercel:
 
-https://blog-rl.vercel.app/
+https://blog-rl-robertoferreirajrr.vercel.app/
 
 ## Como iniciar!?
 
